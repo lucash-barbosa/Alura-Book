@@ -59,6 +59,11 @@
     margin: .5em 0;
 }
 
+.descricao__imagem {
+    width: 160px;
+    height: 160px;
+}
+
 .descricao__texto {
     font-size: 14px;
 }
@@ -69,7 +74,7 @@
 
 .botoes__ancora {
     background-color: var(--laranja);
-    padding: 1em 6%;
+    padding: 1em 2em;
     color: var(--branco);
     font-weight: 700;
 }
