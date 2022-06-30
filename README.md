@@ -5,5 +5,5 @@
 :book: Projeto criado durante o curso de responsividade com mobile-first Alura
 
 ## 📁 Acesso
-É possivel acessar o projeto <a href="https://alura-book-rouge.vercel.app/">aqui</a>
+É possivel acessar o projeto <a href="https://alura-book-ags4fjeq0-lucaslkj.vercel.app/">aqui</a>
 ou <a href="https://github.com/lucash-barbosa/Alura-Book/archive/refs/heads/master.zip">baixá-lo</a>
