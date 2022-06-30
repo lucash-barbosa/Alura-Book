@@ -6,4 +6,4 @@
 
 ## 📁 Acesso
 É possivel acessar o projeto <a href="https://alura-book-rouge.vercel.app/">aqui</a>
-ou <a href="https://github.com/Lucas-Henrique-Barbosa/AluraPlus/archive/refs/heads/main.zip">baixá-lo</a>
+ou <a href="https://github.com/lucash-barbosa/Alura-Book/archive/refs/heads/master.zip">baixá-lo</a>
